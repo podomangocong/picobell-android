@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="picobell_purple">#7d22ff</color>
+    <color name="picobell_pink_01">#66e062ff</color>
+    <color name="picobell_pink02">#11e062ff</color>
+    <color name="picobell_gradient_purple">#6b19ff</color>
+    <color name="picobell_gradient_pink">#fd62ff</color>
+    <color name="picobell_gradient_brown">#7f6f60</color>
+    <color name="picobell_gradient_orange">#ea6d33</color>
+    <color name="picobell_black_01">#000000</color>
+    <color name="picobell_black_02">#111111</color>
+    <color name="picobell_grey_01">#5f5f69</color>
+    <color name="picobell_grey_02">#52514d</color>
+    <color name="picobell_grey_03">#555555</color>
+    <color name="picobell_grey_04">#888888</color>
+    <color name="picobell_grey_05">#939393</color>
+    <color name="picobell_grey_06">#d1d1d1</color>
+    <color name="picobell_grey_07">#d6d6d6</color>
+    <color name="picobell_grey_08">#e9e9e9</color>
+    <color name="picobell_grey_09">#eeeff1</color>
+    <color name="picobell_bluegrey">#f2f4f6</color>
+    <color name="picobell_white">#ffffff</color>
+    <color name="picobell_brown">#967a6d</color>
+
+</resources>
