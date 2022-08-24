@@ -35,7 +35,7 @@
                 android:layout_marginStart="16dp"
                 android:layout_marginEnd="16dp"
                 android:contentDescription="@string/description_product_thumbnail"
-                android:src="@drawable/jacket_01"
+                android:src="@drawable/coen_main"
 
                 app:layout_constraintDimensionRatio="w, 1:1"
                 app:layout_constraintEnd_toEndOf="parent"
@@ -50,7 +50,7 @@
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="24dp"
                 android:layout_marginEnd="16dp"
-                android:text="LVC"
+                android:text="CONE"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/iv_product_thumbnail" />
@@ -63,7 +63,7 @@
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginEnd="16dp"
-                android:text="LEVI'S VINTAGE CLOTHING 3rd JACKET"
+                android:text="COEN WindBreaker"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
@@ -71,7 +71,7 @@
 
             <TextView
                 android:id="@+id/tv_product_discount_rate"
-                style="@style/TextMedium.Purple.Bold"
+                style="@style/TextMedium.Orange.Bold"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
@@ -86,7 +86,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="10dp"
-                android:text="99,800원"
+                android:text="135,000원"
                 app:layout_constraintBottom_toBottomOf="@id/tv_product_discount_rate"
                 app:layout_constraintStart_toEndOf="@id/tv_product_discount_rate"
                 app:layout_constraintTop_toTopOf="@id/tv_product_discount_rate" />
@@ -97,7 +97,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="6dp"
-                android:text="110,000원"
+                android:text="150,000원"
                 app:layout_constraintBaseline_toBaselineOf="@id/tv_product_discount_price"
                 app:layout_constraintStart_toEndOf="@id/tv_product_discount_price" />
 
@@ -126,12 +126,12 @@
                 android:id="@+id/iv_product_detail_image"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="24dp"
-                android:layout_marginBottom="50dp"
+                android:layout_marginTop="4dp"
                 android:contentDescription="@string/description_product_detail_image"
                 android:scaleType="centerCrop"
-                android:src="@drawable/jacket_08"
+                android:src="@drawable/coen_detail"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/tv_product_detail_image_title" />
 

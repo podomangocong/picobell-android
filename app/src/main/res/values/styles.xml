@@ -44,6 +44,14 @@
         <item name="android:textStyle">bold</item>
     </style>
 
+    <style name="TextMedium.Orange">
+        <item name="android:textColor">@color/picobell_gradient_orange</item>
+    </style>
+
+    <style name="TextMedium.Orange.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
     <style name="TextMedium.Purple">
         <item name="android:textColor">@color/picobell_purple</item>
     </style>
