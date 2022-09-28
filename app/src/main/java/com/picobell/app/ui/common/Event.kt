@@ -5,7 +5,7 @@ import androidx.lifecycle.Observer
 // 구글에서 공개한 앱 아키텍쳐 샘플을 참조함.
 
 // 모든 데이터타입을 처리해야하므로 제네릭타입<T>, 생성자 content도 마찬가지로 제네릭타입
-class Event<T>(private val content: T) {
+class   Event<T>(private val content: T) {
 
     // 이 데이터가 소비되었는지 확인할 Boolean타입의 변수
     private var hasBeenHandled = false

@@ -40,7 +40,7 @@
         <item name="android:textColor">@color/picobell_black_01</item>
     </style>
 
-    <style name="TextMedium.Bold" >
+    <style name="TextMedium.Bold">
         <item name="android:textStyle">bold</item>
     </style>
 
@@ -86,15 +86,17 @@
     </style>
 
     <style name="TextSubtitle2.Black02.Bold">
-<item name="android:textStyle">bold</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
     <style name="TextSubtitle2.Orange">
         <item name="android:textColor">@color/picobell_gradient_orange</item>
     </style>
+
     <style name="TextSubtitle2.Orange.Bold">
         <item name="android:textStyle">bold</item>
     </style>
+
     <style name="TextSubtitle2.Purple">
         <item name="android:textColor">@color/picobell_purple</item>
     </style>
@@ -103,7 +105,7 @@
         <item name="android:textStyle">bold</item>
     </style>
 
-    <style name="TextSubtitle2.Grey05" >
+    <style name="TextSubtitle2.Grey05">
         <item name="android:textColor">@color/picobell_grey_05</item>
     </style>
 
@@ -128,15 +130,15 @@
         <item name="android:textColor">@color/picobell_white</item>
     </style>
 
-    <style name="TextCaption1.Grey01" >
+    <style name="TextCaption1.Grey01">
         <item name="android:textColor">@color/picobell_grey_01</item>
     </style>
 
-    <style name="TextCaption1.Grey03" >
+    <style name="TextCaption1.Grey03">
         <item name="android:textColor">@color/picobell_grey_03</item>
     </style>
 
-    <style name="TextCaption1.Grey05" >
+    <style name="TextCaption1.Grey05">
         <item name="android:textColor">@color/picobell_grey_05</item>
     </style>
 
@@ -151,7 +153,7 @@
     </style>
 
     <style name="TextCaption2.White.Bold">
-       <item name="android:textStyle">bold</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
     <style name="TextCaption2.Grey04">

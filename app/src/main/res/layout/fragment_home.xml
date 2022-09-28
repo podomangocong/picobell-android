@@ -36,7 +36,7 @@
                     android:paddingEnd="16dp"
                     android:paddingBottom="24dp"
                     android:text="@{title.text}"
-                    tools:text="jimin, 이런 상품\n어때요?" />
+                    tools:text="고객님, 이런 상품\n어때요?" />
 
                 <ImageView
                     android:id="@+id/toolbar_home_icon"

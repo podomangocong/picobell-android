@@ -7,7 +7,7 @@
   "top_banners": [
     {
       "background_image_url": "https://user-images.githubusercontent.com/109748246/181925903-f3a68c24-65ea-4f87-9ef8-90e182417a3b.png",
-      "badge": {
+      "badgex": {
         "label": "신상품",
         "background_color": "#52514d"
       },

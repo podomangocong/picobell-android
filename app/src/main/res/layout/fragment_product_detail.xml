@@ -36,7 +36,6 @@
                 android:layout_marginEnd="16dp"
                 android:contentDescription="@string/description_product_thumbnail"
                 android:src="@drawable/coen_main"
-
                 app:layout_constraintDimensionRatio="w, 1:1"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
